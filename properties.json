@@ -1,5 +1,5 @@
 {
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/bcbsma/chat?domainCode=bcbsma",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/rate/",
-  "clientUrl": "https://www.amazon.com/"
+  "ameliaUrl": "https://accolade.demo.amelia.com/Amelia/ui/accolade/chat?domainCode=accolade",
+  "chatUrl": "https://accolade.demo.amelia.com/Amelia/ui/rate/",
+  "clientUrl": "https://www.accolade.com/"
 }
